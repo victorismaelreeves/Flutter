@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188821749030",
+    "project_id": "hs-management-fe9bf",
+    "storage_bucket": "hs-management-fe9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188821749030:android:022fddc139f01ce65295e7",
+        "android_client_info": {
+          "package_name": "com.example.sysent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188821749030-jr84a4m3hs81jli6d2ju07vag4b4aude.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNgUmudHB6iKP10cW4IQvNRf8HCUDhaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188821749030-jr84a4m3hs81jli6d2ju07vag4b4aude.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
